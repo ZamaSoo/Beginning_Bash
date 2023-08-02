@@ -1,0 +1,3 @@
+#Explain the usage of the man command?
+
+Used to display the user manual of any command that we run on the terminal.

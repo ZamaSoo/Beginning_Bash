@@ -1,0 +1,3 @@
+#What does the command cd home do?
+
+This command takes you to the home directory where user login directories are stored.

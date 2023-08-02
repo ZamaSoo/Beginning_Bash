@@ -1,0 +1,4 @@
+#Explain the use of tab completion?
+
+Used to autocomplete file/directory names, especially for long names. Start by typing a name and then type tab to have 
+the name autocomplete.

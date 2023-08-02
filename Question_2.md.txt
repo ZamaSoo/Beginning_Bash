@@ -1,0 +1,3 @@
+#What does the command ls / output?
+
+It gives the contents of each file and directory.

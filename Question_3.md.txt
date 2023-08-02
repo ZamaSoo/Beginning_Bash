@@ -1,0 +1,3 @@
+#What does the pwd command do?
+
+This command gives you the directory path you are under. It tells you which directory you are in.

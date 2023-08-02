@@ -1,0 +1,3 @@
+#What command would you use to navigate 'upwards' one level in the directory hierachy?
+
+The command cd ..
